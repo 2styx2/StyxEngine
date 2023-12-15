@@ -14,5 +14,6 @@ public class Launcher {
         }
 
         window.cleanup();
+
     }
 }
